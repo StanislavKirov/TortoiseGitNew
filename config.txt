@@ -1,3 +1,6 @@
 name = DIvan31
-
 email = ivan3@dir.bg
+size = 2001
+email = ivan3@dir.bg
+City = VT
+
